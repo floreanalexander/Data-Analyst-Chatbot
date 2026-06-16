@@ -7,7 +7,7 @@ AI Data Analyst Chatbot is an AI-powered application that helps users analyze da
 
 The chatbot leverages Large Language Models (LLMs) through the Groq API to provide data-driven analysis and support decision-making processes.
 
---
+---
 
 ## Project Objectives
 
